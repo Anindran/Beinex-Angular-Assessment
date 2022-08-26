@@ -1,0 +1,39 @@
+.navbar-text{
+    color: white;
+   display: inline;
+  /* margin-left: 900px; */
+}
+.settings-logo,.profilelogo{
+    color: white;
+}
+nav{
+    height: 100%;
+   
+}
+#navbar{
+     box-shadow: 5px 5px 10px black ;
+     background-color: black;
+}
+.side-nav-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+.side-nav-button:hover{
+    background-color: grey;
+    border-radius: 30%;
+}
+.navbar{
+    color: black;
+}
+#fo{
+    color: red;
+}
+#so{
+    color: yellow;
+}
+.hooli{
+    color: white;
+}
